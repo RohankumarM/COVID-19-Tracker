@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Designed with **HTML**, **CSS**, **Vanilla Javascript**, **Material-UI**.
+Framework used is **React**. 
+Conversational AI Studio used is **AlanAI**.(https://alan.app/)
+COVID Data API used is from **disease.sh**(Worldometer).
+Used React **leaflet** for Maps. 
+Used **Chartjs** for building Charts.
+Used React **Router** to route to different pages. 
+
+Check out live demo at: https://covid19-tracker-67026.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
